@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lifeisbeautifu1
+- 👋 Hi, I’m Alexey
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Next.js, Nest.js & Prisma.
 - 💞️ I’m looking to collaborate on any web projects.
