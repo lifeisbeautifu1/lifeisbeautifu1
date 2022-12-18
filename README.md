@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alexey
 - 👀 I’m interested in Web Development
-- 🤓 I’m currently learning Next.js, Nest.js, Prisma, WebRTC and Redis .
-- 💞️ I’m looking to collaborate on any web projects.
+- 🤓 I’m currently learning Next.js, Nest.js, Prisma, WebRTC and Redis
+- 💞️ I’m looking to collaborate on any web projects
 - 📫 How to reach me poltoradnevone@gmail.com
 
 <!---
