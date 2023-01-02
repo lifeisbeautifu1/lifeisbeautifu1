@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Quinn
+- 👋 Hi, I’m Alexey
 - 👀 I’m interested in web/mobile development
 - 🤓 I’m currently learning Nest.js, WebRTC and Redis
 - 📫 How to reach me poltoradnevone@gmail.com
